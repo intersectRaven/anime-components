@@ -1,5 +1,16 @@
 [
     {
+        "name": "wine-10.14-staging-tkg-ntsync-amd64-wow64",
+        "title": "Wine-Staging-TkG 10.14",
+        "uri": "https://github.com/Kron4ek/Wine-Builds/releases/download/10.14/wine-10.14-staging-tkg-ntsync-amd64-wow64.tar.xz",
+        "files": {
+            "wine": "bin/wine",
+            "wine64": "bin/wine",
+            "wineserver": "bin/wineserver",
+            "wineboot": "bin/wineboot"
+        }
+    },
+    {
         "name": "wine-10.12-staging-tkg-ntsync-amd64-wow64",
         "title": "Wine-Staging-TkG 10.12",
         "uri": "https://github.com/Kron4ek/Wine-Builds/releases/download/10.12/wine-10.12-staging-tkg-ntsync-amd64-wow64.tar.xz",
